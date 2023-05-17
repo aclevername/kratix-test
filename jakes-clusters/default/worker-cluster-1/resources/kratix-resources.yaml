@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  Path: jakes-clusters/default/worker-cluster-1/resources
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: kratix-info
+  namespace: kratix-worker-system
